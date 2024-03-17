@@ -1,16 +1,9 @@
 # final_flashcards_game_using_sqlite_storage_project_01
 
-A new Flutter project.
+a Flutter mobile app, revolutionizes learning with its dynamic features for users of all ages. Seamlessly create, manage, and utilize personalized flashcards across various subjects, enhancing studying and memorization. Its intuitive interface simplifies flashcard creation while offering a quiz mode for testing knowledge. With robust local storage, access your custom flashcards offline, ensuring learning happens anytime, anywhere.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [youtube link to presentation] => (https://youtu.be/xgRWTGGzOLk)
+- [google slides link used for presentation] => 
