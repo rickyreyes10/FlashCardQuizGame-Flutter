@@ -6,4 +6,4 @@ a Flutter mobile app, revolutionizes learning with its dynamic features for user
 ## Getting Started
 
 - [youtube link to presentation] => (https://youtu.be/xgRWTGGzOLk)
-- [google slides link used for presentation] => 
+- [google slides link used for presentation] => (https://docs.google.com/presentation/d/1gdMjfZ6y19cGdZFl8ULskMHxAP4hU4fuVGhpw_-pCRY/edit#slide=id.p)
